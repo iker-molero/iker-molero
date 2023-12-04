@@ -3,7 +3,7 @@
 <h2 align="right">💻 Junior Developer / Student 📚</h2>
 <h3>Self-taught developer based in Madrid, Spain.</h3>
 
-- 🚀 Currently working on a <b>personal assistant app</b>.
+- 🚀 Currently working on a <b>rust utilities crate</b>.
 - 📝 Currently learning <b>"Rust"</b> and <b>"Cargo"</b>.
 - 🤝 Looking for collaborations on <b>open source projects</b>.
 - 💬 Ask me anything about <b>web front-end development</b>.
